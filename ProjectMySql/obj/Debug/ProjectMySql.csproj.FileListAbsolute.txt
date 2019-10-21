@@ -1,0 +1,24 @@
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\bin\Debug\ProjectMySql.exe.config
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\bin\Debug\ProjectMySql.exe
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\bin\Debug\ProjectMySql.pdb
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.csprojResolveAssemblyReference.cache
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.Login.resources
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.Properties.Resources.resources
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.csproj.GenerateResource.Cache
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.exe
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.pdb
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.CreateUser.resources
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\bin\Debug\MySql.Data.dll
+c:\users\tec\documents\visual studio 2012\Projects\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.InterfazPrincipal.resources
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\bin\Debug\ProjectMySql.exe.config
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.exe
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.pdb
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\bin\Debug\ProjectMySql.exe
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\bin\Debug\ProjectMySql.pdb
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\bin\Debug\MySql.Data.dll
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.csprojResolveAssemblyReference.cache
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.CreateUser.resources
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.InterfazPrincipal.resources
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.Login.resources
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.Properties.Resources.resources
+D:\TareaJosueNecesario\ProjectMySql\ProjectMySql\obj\Debug\ProjectMySql.csproj.GenerateResource.Cache
